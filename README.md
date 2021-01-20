@@ -1,5 +1,6 @@
 # Quiubas
 Quiubas Test
 
-Frontend: npm install <br>
-Backend: npm install
+Backend: npm install -- npm start (ejecutar primero) <br>
+Frontend: npm install -- npm start
+ 
