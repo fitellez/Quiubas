@@ -1,5 +1,5 @@
 # Quiubas
 Quiubas Test
 
-Frontend: npm install
+Frontend: npm install <br>
 Backend: npm install
