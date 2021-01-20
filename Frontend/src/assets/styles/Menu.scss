@@ -1,0 +1,37 @@
+.Menu_titulo {
+    font-family: 'RobotoMedium';
+    font-size: 1.5rem; //30px
+}
+
+.Menu_subTitulo {
+    font-family: 'RobotoRegular';
+    font-size: 1.25rem; // 20 px
+}
+
+.Menu_menuVertical {
+    background-color: #303741;
+}
+
+.Menu_borde {
+    border-left: 1px solid #3a3a3a;
+    height: 100%;
+}
+
+.Menu-menu:hover {
+    background-color: #2d343e !important;
+}
+
+.Menu-menu:hover a {
+    background-color: #2d343e !important;
+}
+
+.Menu_subMenu.active {
+    background-color: #2d343e !important;
+    border-radius: 0;
+}
+
+.Menu-BgColor {
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    box-shadow: 0 10px 15px 1px rgba(69, 65, 78, .08);
+}
